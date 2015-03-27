@@ -1,0 +1,45 @@
+head{
+
+}
+body {
+	background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/curtains/curtains-001561-lime-green.jpg");
+
+}
+
+#mainstuff {
+	text-align: center
+}
+
+.myTableStyle {
+	width: 100%;
+	font-size: 30px;
+	font-family: 'Open Sans', Sans-serif;
+	background-color: green;
+}
+
+a{
+	color: green;
+}
+
+.box {
+	position: ;
+	width: 150px;
+	display: inline-block;
+	padding: 1px;
+	border: 1px solid black;
+	margin: 25px;
+	text-align: right;
+}
+
+.headerlink {
+	line-height: 60px;
+	padding:  10px;
+	margin-right:  10px;
+	background: olive;
+	text-decoration: none;
+	color: black;
+}
+
+button{
+	position: left;
+}
